@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Clases para aprender asincronismo",
+  "main": "challenger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asincronismo",
+    "callback",
+    "promise",
+    "async-await"
+  ],
+  "author": "Jose restrepo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
